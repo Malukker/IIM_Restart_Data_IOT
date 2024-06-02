@@ -1,0 +1,1 @@
+Téléverser les fichiers dans la raspberry pico pour le bon fonctionnement des librairies
